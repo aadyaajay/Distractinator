@@ -40,19 +40,17 @@ For Hardware:
 
 ### Implementation
 For Software:
-# Installation
+ # Installation
  No package installation needed
  To load the extension in Chrome:
-1. Go to chrome://extensions/
-2. Enable "Developer mode"
-3. Click "Load unpacked"
-4. Select your project folder containing manifest.json
-
-
-# Run
- Once loaded:
-- The extension runs automatically on all websites
-- Popup triggers based on domain (e.g., StackOverflow, YouTube)
+ 1. Go to chrome://extensions/
+ 2. Enable "Developer mode"
+ 3. Click "Load unpacked"
+ 4. Select your project folder containing manifest.json
+ # Run
+  Once loaded:
+ - The extension runs automatically on all websites
+ - Popup triggers based on domain (e.g., StackOverflow, YouTube)
 
 
 ### Project Documentation
@@ -69,20 +67,6 @@ For Software:
 <img width="1677" height="988" alt="Screenshot 2025-08-02 065047" src="https://github.com/user-attachments/assets/ff7d0f64-e414-445f-b6d7-47dc0be79432" />
 
 
-
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
