@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Procrastinator Pal</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 10px;
+        width: 220px;
+        background: #f4f4f4;
+      }
+
+      #msg {
+        font-size: 14px;
+        margin-bottom: 10px;
+        min-height: 30px;
+      }
+
+      .cursor {
+        display: inline-block;
+        width: 1px;
+        background-color: black;
+        animation: blink 0.8s steps(2, start) infinite;
+        margin-left: 2px;
+      }
+
+      @keyframes blink {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 1; }
+      }
+
+      button {
+        padding: 6px 10px;
+        cursor: pointer;
+        border: none;
+        background: #ff6f61;
+        color: white;
+        border-radius: 5px;
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="msg"><span id="typed-text"></span><span class="cursor"></span></div>
+    <button id="distract">Give Me Distractions</button>
+
+    <script>
+      const text = "Ready to ruin your focus? 😈";
+      const typedText = document.getElementById("typed-text");
+      let i = 0;
+
+      function typeWriter() {
+        if (i < text.length) {
+          typedText.innerHTML += text.charAt(i);
+          i++;
+          setTimeout(typeWriter, 50); // Typing speed (ms)
+        }
+      }
+
+      typeWriter();
+    </script>
+  </body>
+</html>
