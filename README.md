@@ -59,15 +59,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1699" height="811" alt="Screenshot 2025-08-02 064837" src="https://github.com/user-attachments/assets/ae8bc13b-1e71-499d-991a-ad23b2e7bc07" />
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="1871" height="893" alt="Screenshot 2025-08-02 064642" src="https://github.com/user-attachments/assets/db78ca7f-2a16-42c8-a28d-ec5e38ddc7ed" />
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1742" height="1035" alt="Screenshot 2025-08-02 065035" src="https://github.com/user-attachments/assets/16647e53-ad5d-4a8f-99fc-039f55507c98" />
 
+
+<img width="1677" height="988" alt="Screenshot 2025-08-02 065047" src="https://github.com/user-attachments/assets/ff7d0f64-e414-445f-b6d7-47dc0be79432" />
 
 
 
