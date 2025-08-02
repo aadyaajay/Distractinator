@@ -29,23 +29,31 @@ It not only stops there, we detect what type of YouTube videos you are watching 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- HTML,CSS.JAVASCRIPT
+- Google Fonts (for custom typography),Web APIs
+- Chrome Extension Manifest v3,Visual Studio Code,Chrome Developer Tools for testing/debugging
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Laptop with chrome browser installed
+- Modern web browser supporting Chrome Extensions (Chrome 88+ for Manifest v3),Minimum 4GB RAM for smooth operation
+- Google Chrome,vscode
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+ No package installation needed
+ To load the extension in Chrome:
+1. Go to chrome://extensions/
+2. Enable "Developer mode"
+3. Click "Load unpacked"
+4. Select your project folder containing manifest.json
+
 
 # Run
-[commands]
+ Once loaded:
+- The extension runs automatically on all websites
+- Popup triggers based on domain (e.g., StackOverflow, YouTube)
+
 
 ### Project Documentation
 For Software:
@@ -60,15 +68,9 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
@@ -85,7 +87,19 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+
+
+https://github.com/user-attachments/assets/5e081db4-07d8-4798-94ee-7ff98f82c993
+
+
+https://github.com/user-attachments/assets/7197d933-a624-4cd9-aafb-c7cae12ad6ba
+
+
+
+https://github.com/user-attachments/assets/57bc8b2f-8e08-4f81-a9e6-80feff778370
+
+
+
 *Explain what the video demonstrates*
 
 # Additional Demos
