@@ -64,12 +64,7 @@ For Software:
 <img width="1742" height="1035" alt="Screenshot 2025-08-02 065035" src="https://github.com/user-attachments/assets/16647e53-ad5d-4a8f-99fc-039f55507c98" />
 
 
-<img width="1677" height="988" alt="Screenshot 2025-08-02 065047" src="https://github.com/user-attachments/assets/ff7d0f64-e414-445f-b6d7-47dc0be79432" />
-
-
-
 ### Project Demo
-# Video
 
 
 https://github.com/user-attachments/assets/5e081db4-07d8-4798-94ee-7ff98f82c993
@@ -82,16 +77,15 @@ https://github.com/user-attachments/assets/7197d933-a624-4cd9-aafb-c7cae12ad6ba
 https://github.com/user-attachments/assets/57bc8b2f-8e08-4f81-a9e6-80feff778370
 
 
+The Distractinator extension monitors browser activity to detect when a user is engaging with educational or productivity-related websites. If the user remains on such a site for more than 10 seconds, a popup is triggered containing a humorous quote and a redirection button. This button links to a randomly selected distraction platform, including Reddit, Instagram, YouTube Shorts, or Animepahe. To maintain the intended disruption, the popup can reappear every 10 seconds while the user continues browsing the same site. On YouTube, the extension distinguishes between educational and non-educational videos. If a video is categorized as productive—such as tutorials or lectures—the popup is activated. For general or entertainment content, the popup is suppressed, allowing the user to remain distracted without interruption. This behavior ensures the extension only intervenes when the user appears to be doing something useful.
 
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aadya Ajayan: Ideation & Concept Design,Frontend
+- Gayathri M Nair:. Extension Logic & Scripting, Testing & Debugging
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
