@@ -1,26 +1,30 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Distractinator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: G3
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aadya Ajayan - Adi Shankara Institute of Engineering and Technology
+- Member 2: Gayathri M Nair - Adi Shankara Institute of Engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Distractinator - a reverse productivity tool. A Chrome extension that detects when you’re trying to focus and immediately distracts you. It’s the world’s first anti-focus assistant.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
+People these days are a little too committed to being productive. They set goals, make lists, watch tutorials at double speed, and still feel guilty for taking a break. It's become normal to treat rest like a reward instead of a right. Some people actually stick to their routines. Clearly, we're facing a dangerous surplus of motivation. So we built The Distractinator - which makes sure that you are always on the wrong track.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+
+Introducing Distractinator - A browser extension built with one goal, to make sure you never get anything done again (on purpose). Distractinator is your personal anti-productivity companion, designed to pop up  exactly when you're about to be responsible. Open a productive website, we pop up with "valuable" advices and a redirect to the "right" path like instagram or reddit.
+It not only stops there, we detect what type of YouTube videos you are watching and "help" you if you dare to watch an educational video.
+
 
 ## Technical Details
 ### Technologies/Components Used
